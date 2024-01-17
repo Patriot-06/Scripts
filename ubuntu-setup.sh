@@ -44,6 +44,6 @@ rm gdrive
 echo -e "Done."
 
 echo -e "\nGit\n"
-git config --global user.name “Patriot-06”
-git config --global user.email “mbmc172@gmail.com”
+git config --global user.name Patriot-06
+git config --global user.email mbmc172@gmail.com
 echo -e "Done."
